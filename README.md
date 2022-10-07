@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Drink-some-water
+- 👀 I’m interested in cyber security and OS projects
+- 🌱 I’m currently learning C# development
+- 📫 How to reach me sean.collins.professional@gmail.com
