@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sean Collins
 - 👀 I’m interested in big data solutions
-- 🌱 I’m currently learning about indexing methods in data discovery
+- 🌱 I’m currently learning about indexing methods for data discovery
 - 📫 Contact me at seancollins362@gmail.com
