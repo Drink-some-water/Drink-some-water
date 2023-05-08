@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sean Collins
-- 👀 I’m interested in cyber security and physics simulation
-- 🌱 I’m currently learning C#
-- 📫 Contact me at sean.collins.professional@gmail.com
+- 👀 I’m interested in big data solutions
+- 🌱 I’m currently learning about indexing methods in data discovery
+- 📫 Contact me at seancollins362@gmail.com
