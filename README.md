@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sean Collins
-- 👀 I’m interested in big data solutions
+- 👀 I’m just starting my career and looking for all projects or opportunities
+- My greatest area of interest is backend development and data integration
 - 🌱 I’m currently learning about indexing methods for data discovery
-- 📫 Contact me at seancollins362@gmail.com
+- 📫 Contact me at sean.collins.developer@gmail.com
